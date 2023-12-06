@@ -1,5 +1,4 @@
 # AoC-2023
-=
 
 This is my attempt at Advent of Code 2022 in Python 3.9.15
 
