@@ -8,7 +8,6 @@ def mult(w):
 
     return ans
 
-acc = 1
 ways_to_win = []
 
 for p in range(0, 2):
@@ -34,6 +33,7 @@ for p in range(0, 2):
         dist = [int(dist)]
 
     ways_to_win = []
+
     for i, t in enumerate(times):
         do_continue = True
 
